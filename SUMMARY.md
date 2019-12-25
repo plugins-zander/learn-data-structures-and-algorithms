@@ -27,8 +27,6 @@
         * [索引](books/1033.md)
         * [散列](books/1034.md)
 * [关系](books/1035.md)
-    * [###](books/1037.md)
-    * [###](books/1039.md)
 * [算法](books/1036.md)
     * [算法分析](books/1042.md)
         * [时间复杂度](books/1043.md)
